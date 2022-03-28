@@ -8,7 +8,7 @@
 ```py
 zenith = {
   "pronouns" : "he/him",
-  "code" : ["Python", "HTML", "Lua", "Golang"],
+  "code" : ["Python", "HTML", "A little bit of Lua"],
   "contact" : "Zenith#7272"
   "communities" : {
                         "student" : "HamsterHub",
