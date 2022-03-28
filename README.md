@@ -5,13 +5,14 @@
 
 ---
 
-```javascript
-const zenith = {
-  pronouns: "he" | "him",
-  code: [Python, HTML, Lua, Golang],
-  techCommunities: {
-                        student: "HamsterHub",
-                        learning: "PHC1:L1-3",
+```py
+zenith = {
+  "pronouns" : "he/him",
+  "code" : ["Python", "HTML", "Lua", "Golang"],
+  "contact" : "Zenith#7272"
+  "communities" : {
+                        "student" : "HamsterHub",
+                        "learning" : "Data Science",
                       },
 }
 ```
