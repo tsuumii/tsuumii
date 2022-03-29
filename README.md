@@ -8,12 +8,14 @@
 ```py
 zenith = {
   "pronouns" : "he/him",
+  "age" : 13,
+  "nationality" : "thai",
   "code" : ["Python", "HTML", "A little bit of Lua"],
   "contact" : "Zenith#7272"
   "communities" : {
-                        "student" : "HamsterHub",
-                        "learning" : "Data Science",
-                      },
+                     "student" : "HamsterHub",
+                     "learning" : "Data Science",
+                  },
 }
 ```
 
