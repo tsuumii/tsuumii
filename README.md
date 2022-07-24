@@ -1,6 +1,8 @@
-<h2 align="center"> Hi, I'm Zenith! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="center"> Hi, I'm Zenith. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+![](https://komarev.com/ghpvc/?username=zendivinity&color=black)
 
 ---
 
