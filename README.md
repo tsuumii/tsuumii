@@ -26,7 +26,10 @@
 A random discord raider known to retire and rejoin alot of times due to school. Currently is a GBE, 4th and AOS admin.
 
 ### What should you know about me...
-Wolfboy likes to skid my creations and makes excuses about it.
+* Currently 13 years old, living in thailand. Don't really focus on coding that much, just here to cure boredom.
+* Studying @ DSNPRU, school is a living hell.
+* Do not skid my projects, I publish it because I can.
+* Wolfboy likes to skid my creations and makes excuses about it.
 
 ### Languages I know...
 * py
