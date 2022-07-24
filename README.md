@@ -20,15 +20,15 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> So, who is Zenith?  
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> So, who is Zenith?  
 
-## I am...
+### I am...
 A random discord raider known to retire and rejoin alot of times due to school. Currently is a GBE, 4th and AOS admin.
 
-## What should you know about me...
+### What should you know about me...
 Wolfboy likes to skid my creations and makes excuses about it.
 
-## Languages I know...
+### Languages I know...
 * py
 * lua (Used in Roblox Studio only, and a little basics of it.)
 
