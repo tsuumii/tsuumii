@@ -5,6 +5,7 @@
 <div align="center">
   
   ![](https://komarev.com/ghpvc/?username=zendivinity&color=gray)
+  
   <img src="https://discord.c99.nl/widget/theme-4/968117762281066526.png"></img>
   
 </div>
