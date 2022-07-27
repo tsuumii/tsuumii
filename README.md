@@ -29,7 +29,7 @@ A random discord raider known to retire and rejoin alot of times due to school. 
 * Currently 13 years old, living in thailand. Don't really focus on coding that much, just here to cure boredom.
 * Studying @ DSNPRU, school is a living hell.
 * Do not skid my projects, I publish it because I can.
-* Wolfboy likes to skid my creations and makes excuses about it.
+* Wolfboy likes to skid my creations (by creations i mean everything) and makes excuses about it.
 
 ### Languages I know...
 * py
