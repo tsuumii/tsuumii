@@ -1,12 +1,6 @@
 <h2 align="center"> Hi, I'm Zenith. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=zendivinity&color=gray)
-  
-  <img src="https://discord.c99.nl/widget/theme-4/968117762281066526.png"></img>
-  
-</div>
+<h1 align="center">zenith#8888</h1>
 
 ---
 
