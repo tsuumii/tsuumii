@@ -1,11 +1,11 @@
-<h2 align="center"> Spend. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="center"> aspend <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p align="center">禅</p>
 <p align="center">aspends</p>
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> So, who is Aspen?  
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> So, who is Aspend?  
 
 ### Formerly known as Zenith, I am...
 A random discord raider known to retire and rejoin alot of times due to school.
