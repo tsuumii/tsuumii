@@ -5,8 +5,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
 it was night, and the rain fell; and falling.
 
 it was rain, but, having fallen, it was blood.
