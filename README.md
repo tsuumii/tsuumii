@@ -12,8 +12,7 @@
 - [Chocolink](https://chocolink.xyz), a website which you can create links to connect to a centralized profile.
 - [Stars & Orbits](https://stars-and-orbits.web.app), an incremental game based on upgrading planets.
 
-<div align="right">
-<img src="https://lanyard.kyrie25.dev/api/1025094485279002726" />
+<div align="center">
 
 <pre>
   it was night, and the rain fell; and falling.
