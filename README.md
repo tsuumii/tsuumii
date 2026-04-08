@@ -12,7 +12,7 @@
 
 <img src="https://lanyard.kyrie25.dev/api/1025094485279002726" />
 
-<pre>
+<pre align="right">
   it was night, and the rain fell; and falling.
   it was rain, but, having fallen, it was blood.
 
