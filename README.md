@@ -1,4 +1,5 @@
 <div align="center">
+<img src="/a_city_skyline_with_a_tall_building_and_a_red_sky.png" width="100%">
 <h2>Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p>I'm tsuumi (some people may also know me as "zenith".</p>
