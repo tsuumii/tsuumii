@@ -3,6 +3,9 @@
 
 <p>I'm tsuumi (some people may also know me as "zenith".</p>
 <p>You can reach out to me by mailing: tsuumi@proton.me</p>
+</div>
+
+---
 
 <div align="left">
 📝 &nbsp;**Here are some projects I've done:**
@@ -10,11 +13,10 @@
 - [Stars & Orbits](https://stars-and-orbits.web.app), an incremental game based on upgrading planets.
 </div>
 
----
-
+<div align="right">
 <img src="https://lanyard.kyrie25.dev/api/1025094485279002726" />
 
-<pre align="right">
+<pre>
   it was night, and the rain fell; and falling.
   it was rain, but, having fallen, it was blood.
 
