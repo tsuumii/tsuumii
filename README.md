@@ -1,7 +1,13 @@
 <h2 align="center">Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p align="center">I'm tsuumi (some people may also know me as "zenith".</p>
-<p align="center">tsuumi@proton.me</p>
+<p align="center">You can reach out to me by mailing: tsuumi@proton.me</p>
+
+📝 &nbsp;**Here are some projects I've done:**
+<!-- BLOG-POST-LIST:START -->
+- [Chocolink](https://chocolink.xyz), a website which you can create links to connect to a centralized profile.
+- [Stars & Orbits](https://stars-and-orbits.web.app), an incremental game based on upgrading planets.
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
