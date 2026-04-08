@@ -4,10 +4,8 @@
 <p align="center">You can reach out to me by mailing: tsuumi@proton.me</p>
 
 📝 &nbsp;**Here are some projects I've done:**
-<!-- BLOG-POST-LIST:START -->
 - [Chocolink](https://chocolink.xyz), a website which you can create links to connect to a centralized profile.
 - [Stars & Orbits](https://stars-and-orbits.web.app), an incremental game based on upgrading planets.
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
