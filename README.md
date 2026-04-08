@@ -9,9 +9,7 @@
 
 ---
 
-<a href="https://egirl.ing/" >
-  <img src="https://lanyard.kyrie25.dev/api/1025094485279002726" />
-</a>
+<img src="https://lanyard.kyrie25.dev/api/1025094485279002726" />
 
 it was night, and the rain fell; and falling.
 
