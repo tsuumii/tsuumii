@@ -1,6 +1,7 @@
 <div align="center">
 <img src="/banner.png" width="100%">
 <h2>Hi! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+</div>div> 
 
 I'm tsuumi (some people may also know me as "zenith".
 You can reach out to me by mailing: `tsuumi@proton.me`
