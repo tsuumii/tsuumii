@@ -17,7 +17,6 @@
 <pre>
   it was night, and the rain fell; and falling.
   it was rain, but, having fallen, it was blood.
-
   edgar allan poe, silence: a fable.
 </pre>
 </div>
