@@ -6,7 +6,7 @@
 <p>You can reach out to me by mailing: tsuumi@proton.me</p>
 </div>
 
----
+<h2></h2>
 
 📝 &nbsp;**Here are some projects I've done:**
 - [Chocolink](https://chocolink.xyz), a website which you can create links to connect to a centralized profile.
