@@ -7,6 +7,7 @@ I'm tsuumi (some people may also know me as "zenith".
 You can reach out to me by mailing: `tsuumi@proton.me`
 
 📝 &nbsp;**Here are some projects I've done:**
+- [tsuumi.dev](https://tsuumi.dev), a personal website. my own link-hub.
 - [Chocolink](https://chocolink.xyz), a website which you can create a centralized link to connect to any and all of their social medias.
 - [Stars & Orbits](https://stars-and-orbits.web.app), an incremental game based on upgrading planets.
 
