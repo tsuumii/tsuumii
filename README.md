@@ -10,7 +10,7 @@ You can reach out to me by mailing: `tsuumi@proton.me`
 - [tsuumi.dev](https://tsuumi.dev), a personal website. my own link-hub.
 - [Chocolink](https://chocolink.xyz), a website which you can create a centralized link to connect to any and all of their social medias.
 - [Stars & Orbits](https://stars-and-orbits.web.app), an incremental game based on upgrading planets.
-- [Avaritia](https://stars-and-orbits.web.app), an incremental game. purely for people who enjoy seeing numbers go up.
+- [Avaritia](), an incremental game. purely for people who enjoy seeing numbers go up. (coming soon)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tsuumii&color=brightgreen" alt="watching_count" />
