@@ -9,9 +9,9 @@ You can reach out to me by mailing: `tsuumi@proton.me`
 📝 &nbsp;**Here are some projects I've done:**
 - [tsuumi.dev](https://tsuumi.dev), a personal website. my own link-hub.
 - [Cardle](https://tsuumii.github.io/cardle), card game and deckbuilder!! yippee
+- [Typewriter](https://tsuumii.github.io/typewriter/), (PARTIALLY MAINTAINED) a mix of word bomb and balatro.
 - [Chocolink](https://chocolink.xyz), (NO LONGER MAINTAINED) a website which you can create a centralized link to connect to any and all of their social medias.
 - [Stars & Orbits](https://stars-and-orbits.web.app), (NO LONGER MAINTAINED) an incremental game based on upgrading planets.
-- [Typewriter](https://tsuumii.github.io/typewriter/), (NO LONGER MAINTAINED) a mix of word bomb and balatro.
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tsuumii&color=brightgreen" alt="watching_count" />
